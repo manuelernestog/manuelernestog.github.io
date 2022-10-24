@@ -37,8 +37,8 @@ La inteligencia artificial ha tenido en los últimos meses un crecimiento expone
 
 [Smodin](https://smodin.io/es) es un asistente de escritura multilengüaje
 
-Tiene una enorme cantidad de funcionalidades como resumir textos y sitios web, rescribir textos, un comprobador de plagio, redacción de artículos y  ensayos, un corrección gramatical y mucho más.
+Tiene una enorme cantidad de funcionalidades como resumir textos y sitios web, rescribir textos, un comprobador de plagio, redacción de artículos y ensayos, correcciones gramaticales y mucho más.
 
 ![](https://pbs.twimg.com/media/Ff1-gHLX0AADG8H.jpg)
 
-Y hasta aquí la lista de herramientas. Es realmente impresionante ver lo rápido que se está moviendo este sector y revolución que supondrá para todos. Estoy seguro que en los proximos meses vermos muchas más heramientas nacer para el beneficio de todos.
+Y hasta aquí la lista de herramientas. Es realmente impresionante ver lo rápido que se está moviendo este sector y revolución que supondrá para todos. Estoy seguro de que en los próximos meses veremos muchas más herramientas nacer para el beneficio de todos.
