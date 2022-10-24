@@ -3,7 +3,7 @@ layout: "../../layouts/PostLayout.astro"
 title: "5 herramientas diferentes que utilizan IA que puedes probar gratis hoy mismo"
 description: "La IA ha tenido en los últimos meses un crecimiento exponencial, cada vez son más los usos que se le da esta tecnología."
 pubDate: "Oct 24 2022"
-heroImage: "https://pbs.twimg.com/media/Ff1-ayvWIAA_3r2.jpg"
+heroImage: "blogImages/iaportrait.png"
 ---
 
 La inteligencia artificial ha tenido en los últimos meses un crecimiento exponencial, cada vez son más los usos que se le da esta tecnología. Aquí te traigo una lista con 5 herramientas diferentes que utilizan IA que puedes probar gratis hoy mismo.
