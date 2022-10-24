@@ -1,0 +1,73 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HorizontalCard from "../components/HorizontalCard.astro";
+
+const posts = (await Astro.glob("./blog/*.{md,mdx}")).sort(
+  (a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf()
+);
+
+const last_posts = posts.slice(0, 3);
+---
+
+<BaseLayout>
+
+    <div class="pb-12 mt-5">
+      <div class="text-xl py-1">Hey there 👋</div>
+      <div class="text-5xl font-bold">I'm Manuel Ernesto</div>
+      <div class="text-3xl py-3 font-bold">Software Engineer and Entrepreneur</div>
+      <div class="py-2">
+        <text class="text-lg">
+          I work creating software that solve problems in a simple way and sharing what I learn along the way. I like
+          minimalism, Open-Source and good music. You can find me mostly on Twitter.</text
+        >
+      </div>
+      <div class="mt-8">
+        <a class="btn" href="https://twitter.com/manuelernestog" target="_blank"> Let's connect!</a>
+        <a href="mailto:contact.manuelernestog@gmail.com" class="btn btn-outline ml-5"> Contact</a>
+      </div>
+    </div>
+
+    <div>
+      <div class="text-3xl w-full font-bold mb-2">My last projects {"</>"}</div>
+    </div>
+    <HorizontalCard
+      title="Astro Modern Personal Website"
+      img="https://github.com/manuelernestog/astro-modern-personal-website/raw/main/public/social_img.png"
+      desc="Astro Modern Personal Website Template with Project Section, CV Section, Paginated Blog, RSS Feed, SEO Friendly, Visual themes and Responsive Desing."
+      url="https://github.com/manuelernestog/astro-modern-personal-website"
+      badge="FOSS"
+    />
+    <div class="divider my-0"></div>
+    <HorizontalCard
+      title="WeekTodo"
+      img="https://weektodo.me/assets/images/weektodo-opengraph-1200x630.png"
+      desc="Free minimalist weektly planner focused in privacy."
+      url="https://weektodo.me/"
+      badge="NEW"
+    />
+    <div class="divider my-0"></div>
+    <HorizontalCard
+      title="Productiveness"
+      img="https://softr-prod.imgix.net/applications/f988aa05-d312-4aa6-812e-832bdc75388d/assets/d2c87a17-4fc7-455f-a656-5e4cdbe7aa71.png"
+      desc="Discover the best productivity apps in the market."
+      url="https://www.productiveness.net/"
+    />
+
+    <div>
+      <div class="text-3xl w-full font-bold mb-5 mt-10">Latest from the blog</div>
+    </div>
+
+    {
+      last_posts.map((post) => (
+        <HorizontalCard
+          title={post.frontmatter.title}
+          img={post.frontmatter.heroImage}
+          desc={post.frontmatter.description}
+          url={post.url}
+          target="_self"
+        />
+        <div class="divider my-0"></div>
+      ))
+    }
+
+</BaseLayout>
