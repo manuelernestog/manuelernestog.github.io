@@ -1,67 +1,36 @@
 ---
 layout: "../../layouts/PostLayout.astro"
 title: "9 Cursos de Platzi para la creación de startups"
-description: "Platzi es una escuela online con miles de formaciones de alta calidad y entre ellas muchas relacionadas con el mundo del emprendimiento ..."
+description: "Company of One de Paul Jarvis explora la idea de dirigir un negocio como un emprendedor solitario en lugar de escalar y argumenta ..."
 pubDate: "Mar 19 2022"
-heroImage: "https://images.ecency.com/DQmXJwfvtvAFo9T1eaAnctfzPPJVu8H5Kd6v86Q7gfpLNzb/photo_2022_03_18_00_58_59.jpg"
+heroImage: "https://user-images.githubusercontent.com/53962116/208708365-7fa46022-c9d9-4820-8a57-3f5756c04850.png"
 ---
 
-[Platzi](https://platzi.com/r/manuelernestog) es una escuela online con miles de formaciones de alta calidad y entre ellas muchas relacionadas con el mundo del emprendimiento y creación de startups. Aquí te traigo 9 cursos para startups para sacarle el máximo provecho.
+Company of One de Paul Jarvis explora la idea de dirigir un negocio como un emprendedor solitario en lugar de escalar y argumenta por que permanecer pequeño y enfocado puede ser una forma más satisfactoria y rentable de dirigir un negocio. Aqui te traigo un resumen de los que a mi juicio son los puntos claves de libro.
 
-## Audiocurso de Introducción al Mundo de las Startups
+- Cuestionar el crecimiento.
 
-  -  Descubrirás la importancia de construir un gran equipo
-  -  Conocerás el mindset que debes tener para fundar tu startup
-  -  Entenderás el valor real de las ideas
+Paul Jarvis no niega el crecimiento, pero nos invita a cuestionar la idea de que el crecimiento constante es necesariamente la mejor estrategia para un negocio. En su lugar, propone que los emprendedores deberían considerar la opción de permanecer pequeños y enfocados, en lugar de intentar escalar y expandirse a toda costa. Esto puede ayudar a las empresas a tener éxito a largo plazo en lugar de simplemente tratar de crecer lo más rápido posible.
 
-https://platzi.com/cursos/mundo-startups/
+- Es muy dificil fallar siendo tan pequeño
 
-## Curso de Modelos de Negocio
+Una de las principales ventajas de ser una empresa de una persona es que se puede ser "tan pequeño como para no poder fallar". Al no tener tantos empleados o socios a quienes pagar, los riesgos financieros son mucho más bajos y es más fácil pivotar, recuperarse de un fracaso o no llegar a este punto dada la sencillez de gestionar un negocio pequeño.
 
-https://platzi.com/cursos/modelos-negocio/
+- El poder de las marcas pequeñas
 
-## Curso para Encontrar y Evaluar Ideas para Emprender
+Aunque pueda parecer contra intuitivo, una marca pequeña puede ser más poderosa que una grande. La personalización y la atención al detalle son clave para construir una base de clientes fieles y comprometidos, y esto es más fácil de lograr cuando se es una empresa de una sola persona. Este tipo de interaccion genera una confianza en el cliente que dificilmente puede construir una marca grande.
 
-  -  Descubrirás cómo saber si a las personas les interesa tu idea.
-  -  Aprenderás 5 criterios con los cuales evaluar el potencial de tu idea.
-  -  Verás 7 recetas de cómo encontrar ideas para startups.
+- Enfocate en ser mejor y no en ser mas grande.
 
-https://platzi.com/cursos/startups-ideas/
+En lugar de enfocarse en el crecimiento constante, el libro sugiere que las empresas deben enfocarse en mejorar sus productos y servicios. En ocaciones las marcas se obsecionan con el crecimiento y basan practicamente su rentabilidad en este modelo, lo cual comienza a demandar más recursos para la sostenibilidad de negocio y 
 
-## Audiocurso Cómo Hablar Con Tus Usuarios y Técnicas de Validación
+- Minimal Viable Profit
 
-https://platzi.com/cursos/habla-con-usuarios/
+El concepto de "Minimal Viable Profit" (MVP) se refiere a la cantidad mínima de ganancias que necesita un negocio para ser rentable. Para una empresa de una persona, el MVP puede ser mucho más bajo que para una empresa grande, lo que le permite a los emprendedores ser más flexibles y enfocarse en lo que necesitan para ser rentable y disfrutar mas de su negocio sin tener que estar centrados en todos los gastos y compromisos que genera un negocio más grande.
 
-## Curso de Finanzas para Startup
-  - Conocer los principios de la gestión financiera
-  - Hacer un estado de situación financiera para una startup
-  - Crear un estado de resultados para una startup
-  - Clasificar las cuentas relevantes de un flujo de caja
+- Deja de querer arreglarlo todo con crecimiento.
 
-https://platzi.com/cursos/financiera-startups/
+Supongamos que tienes un servicio de atencion al cliente y tienes tantas peticiones que da a vasto. En este caso es muy comun contratar más personal para cubrir la demanda, pero otro enfoque más efectivo puede ser buscaras el orgen de porque hay tantas solicitudes y mejorar este punto para disminuirlas.
 
-## Zero to One: Construye tu MVP en Seis Semanas. 
 
-https://platzi.com/cursos/from-zero-to-one-mvp/
-
-## Curso para Crear un MVP sin Código
-
-No Code te permiten construir software y automatizar procesos sin tener que escribir una sola línea de código
-
-https://platzi.com/cursos/mvp-sin-codigo/
-
-## Curso de Instrumentación de Datos para Decisiones de Negocio
-
-Instrumenta tu producto para adquirir datos de tu usuario como: dispositivo, hora del día en la que usa tu plataforma, cómo la usa y su comportamiento en general.
-
-https://platzi.com/cursos/analitica-instrumentacion/
-
-## Curso de Métricas y Dashboards para Startups
-
-  - Crear reportes de datos efectivos
-  - Recolectar datos de distintas fuentes
-  - Visualizar información con dashboards
-
-https://platzi.com/cursos/dashboards-startups/
-
-Espero que te sean de provecho estas formaciones. Recomendación cortesía de la comunidad [StartupCuba](https://t.me/comunidadstartupcuba)  y Sandra Madiedo.
+Y hasta aqui el resumen de Company of One, un libro bastante facil de leer y con un enfoque fresco e interesante. Si quieres aondar mas en las ideas te invito a que lo leas completo que vale cada minuto, cien por cien recomendado. 
