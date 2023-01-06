@@ -3,7 +3,7 @@ layout: "../../layouts/PostLayout.astro"
 title: "CuCoders | Propuesta inicial para una Comunidad de Desarrolladores Cubanos"
 description: "Hace unos días salí buscando opiniones sobre que tan beneficioso sería tener una comunidad de desarrolladores cubanos."
 pubDate: "Jan 6 2023"
-heroImage: "![New Project (3)](https://user-images.githubusercontent.com/53962116/211059247-a85be9ed-6072-45a6-a4c4-a75d2ed62064.png)"
+heroImage: "https://user-images.githubusercontent.com/53962116/211059247-a85be9ed-6072-45a6-a4c4-a75d2ed62064.png"
 ---
 
 Hace unos días salí buscando opiniones sobre que tan beneficioso sería tener una comunidad de desarrolladores cubanos y qué características debería tener. Luego de mezclar todas las ideas que tenía y las que dieron aquí, te traigo una propuesta de como podría ser la comunidad y la ejecución.
