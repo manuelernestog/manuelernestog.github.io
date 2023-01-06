@@ -19,7 +19,7 @@ La web tendría las siguientes secciones:
 - Ofertas laborales
 -  Lista con próximos Eventos: Nacionales, Internacionales y de la comunidad.
 -  Directorio de Recursos (iconos, frameworks, apps, postings, etc)
--  Directorio de Aplicaciones Cubanas: Moviles, web o desktop. 
+-  Directorio de Aplicaciones Cubanas: Móviles, web y desktop. 
 - Directorio de Servicios (Un lugar para que los interesados puedan ver ofertas de diseñadores, creación de webs, freelancers, formaciones, cursos y mentorías impartidos por miembros de la comunidad.)
 - Info / Guías
 	-  Rutas de programación según perfiles con vínculos a los recursos, etc.
