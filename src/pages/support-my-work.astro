@@ -1,0 +1,61 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HorizontalCard from "../components/HorizontalCard.astro";
+---
+
+<BaseLayout title="Manuel Ernesto Garcia | Support my Work">
+  <p class="my-10 mx-auto text-center md:px-20">
+    If you find my work helpful you can support it donating the amount you can with any of these methods. Thanks for help me
+    to keep doing this :)
+  </p>
+
+  <div class="gap-6 flex-col flex">
+    <div class="dropdown m-auto w-full md:w-auto">
+      <button tabindex="0" class="btn w-full md:w-96 btn-outline gap-2 flex justify-between">
+        <img src="https://static-00.iconduck.com/assets.00/visa-icon-256x79-nikia4dp.png" class="w-9" />
+        <div>MasterCard / Visa</div>
+        <div class="w-9"></div>
+      </button>
+      <ul tabindex="0" class="dropdown-content menu p-2 shadow bg-base-100 mx-auto rounded-box w-full md:w-96">
+        <li><a href="https://tppay.me/lf95nl14" target="_blank">5 USD</a></li>
+        <li><a href="https://tppay.me/lf95rmek" target="_blank">10 USD</a></li>
+        <li><a href="https://tppay.me/lf95sgt3" target="_blank">25 USD</a></li>
+        <li><a href="https://tppay.me/lf95tfen" target="_blank">50 USD</a></li>
+        <li><a href="https://tppay.me/lf95u7i8" target="_blank">100 USD</a></li>
+        <li><a href="https://tppay.me/lf95w895" target="_blank">200 USD</a></li>
+      </ul>
+    </div>
+
+    <a href="/img/bitcoinQR.png" target="_blank" class="btn btn-outline w-full md:w-96 gap-2 flex justify-between m-auto">
+      <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=024" class="w-9 h-9" />
+      <div>Bitcoin</div>
+      <div class="w-9 h-9"></div>
+    </a>
+
+    <a href="/img/sudt-trc20.png" target="_blank" class="btn btn-outline w-full md:w-96 gap-2 flex justify-between m-auto">
+      <img src="https://manuelernestog.github.io/paylink/images/crypto/usdt.svg" class="w-9 h-9" />
+      <div>USDT-TRC20</div>
+      <div class="w-9 h-9"></div>
+    </a>
+
+    <a
+      href="https://qvapay.com/payme/manuelernestog"
+      target="_blank"
+      class="btn btn-outline w-full md:w-96 gap-2 flex justify-between m-auto"
+    >
+      <img src="https://manuelernestog.github.io/paylink/images/crypto/qvapay.svg" class="w-9 h-9" />
+      <div>Qvapay / Crypto</div>
+      <div class="w-9 h-9"></div>
+    </a>
+
+    <a
+      href="/img/donate_local.webp"
+      target="_blank"
+      class="btn btn-outline w-full md:w-96 gap-2 flex justify-between m-auto"
+    >
+      <img src="https://i.ibb.co/TgDc2Np/card.png" class="w-9 h-9" />
+      <div>CUP / MLC</div>
+      <div class="w-9 h-9"></div>
+    </a>
+  </div>
+</BaseLayout>
