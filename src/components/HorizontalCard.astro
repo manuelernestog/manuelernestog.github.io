@@ -1,12 +1,12 @@
 ---
-const { title, img, desc, url, badge, tags, target = "_blank" } = Astro.props;
+const { title, img, desc, url, badge, tags, download, target = "_blank" } = Astro.props;
 import { Image } from "@astrojs/image/components";
 ---
 
 <div
   class="rounded-lg bg-base-100 hover:shadow-xl transition ease-in-out hover:scale-[102%]"
 >
-  <a href={url} target={target}>
+  <a href={url} target={target} download={download}>
     <div class="hero-content flex-col md:flex-row">
       {
         img && (
