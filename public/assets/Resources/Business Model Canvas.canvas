@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"**🔗 Asociaciones clave**\n\n- ¿Quiénes son nuestros socios clave?\n- ¿Quiénes son nuestros proveedores clave?\n- ¿Qué recursos clave somos?\nadquirir de los socios?\n\n\n\n\n","id":"0d6440751acc45f0","x":-431,"y":-190,"width":311,"height":530},
+		{"type":"text","text":"✅ **Actividades clave**\n\n- ¿Qué actividades clave hacen nuestros\nLas propuestas de valor requieren?\n- Nuestros Canales de Distribución?\n- ¿Nuestras relaciones con los clientes?\n-Nuestros flujos de ingresos?\n\n\n\n\n","id":"d1f2326551aac4c1","x":-100,"y":-190,"width":311,"height":255},
+		{"type":"text","text":" 🏭 **Recursos clave**\n\n- ¿Qué recursos clave hacen nuestro valor?\n- ¿Nuestros Canales de Distribución?\n- ¿Relaciones del cliente?\n- ¿Flujos de ingresos?\n\n\n\n\n","id":"0897651ea6db51bb","x":-100,"y":80,"width":311,"height":260},
+		{"type":"text","text":"**🏷️ Estructura de costos**\n\n- ¿Cuáles son los costes más importantes inherentes a nuestro modelo de negocio?\n- ¿Qué recursos clave son más caros?\n- ¿Qué actividades clave son más caras?","id":"24acd267b43b0516","x":-431,"y":360,"width":791,"height":200},
+		{"type":"text","text":"**💰️ Flujos de ingresos**\n\n- ¿Por qué valor están realmente dispuestos a pagar nuestros clientes?\n- ¿Qué pagan actualmente?\n- ¿Cómo están pagando actualmente? ¿Cómo preferirían pagar?\n- ¿Cuánto contribuye cada flujo de ingresos a los ingresos generales?","id":"2e0a12c8b2f26d0b","x":381,"y":360,"width":815,"height":200},
+		{"type":"text","text":"**🎁 Propuesta de valor**\n\n- ¿Qué valor entregamos al cliente?\n- ¿Cuál de los problemas de nuestros clientes estamos ayudando a resolver?\n- ¿Qué paquetes de productos y servicios estamos ofreciendo a cada Segmento de Clientes?\n- ¿Qué necesidades de los clientes estamos satisfaciendo?","id":"7f46ebd8d4e61578","x":225,"y":-190,"width":311,"height":530},
+		{"type":"text","text":"**❤ Relaciones con los clientes**\n\n- ¿Qué tipo de relación espera cada uno de nuestros Segmentos de Clientes que establezcamos con ellos?\n- ¿Cuáles hemos establecido?\n- ¿Cómo se integran con el resto de nuestro modelo de negocio?\n- ¿Qué tan costosos son?","id":"361bcfe395bd463c","x":556,"y":-190,"width":311,"height":255},
+		{"type":"text","text":"**🚚 Canales**\n\n- ¿A través de qué Canales quieren llegar nuestros Segmentos de Clientes?\n- ¿Cómo los estamos alcanzando ahora?\n- ¿Cómo se integran nuestros Canales?\n- ¿Cuáles funcionan mejor?\n- ¿Cuáles son más rentables?\n- ¿Cómo los estamos integrando con las rutinas de los clientes?","id":"97d225c91d9e4cb9","x":556,"y":80,"width":311,"height":260},
+		{"type":"text","text":"**👤 Segmentos de clientes**\n\n- ¿Para quién estamos creando valor?\n- ¿Quiénes son nuestros clientes más importantes?\n\n\n\n\n","id":"c0382fc175547c47","x":885,"y":-190,"width":311,"height":530},
+		{"type":"text","text":"**Proyecto**: ","id":"3a66a05b19c3d131","x":-431,"y":-260,"width":311,"height":50,"color":"#e6e6e6"},
+		{"type":"text","text":"**Fecha**: 25/04/2023","id":"d4147d82a41fc85d","x":-100,"y":-260,"width":220,"height":50,"color":"#e6e6e6"},
+		{"type":"text","text":"**Version**: 1.0.0","id":"f585640648b97ac5","x":140,"y":-260,"width":180,"height":50,"color":"#e6e6e6"}
+	],
+	"edges":[]
+}
