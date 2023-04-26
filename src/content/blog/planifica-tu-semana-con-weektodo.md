@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "Planifica tu semana con WeekToDo"
 description: "WeekToDo es un planificador semanal minimalista que te permite de forma sencilla e intuitiva planificar tu semana..."
 pubDate: "Jan 8 2022"

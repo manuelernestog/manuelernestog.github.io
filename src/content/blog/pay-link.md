@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "PayLink 2.0 un organizador de métodos de pago gratis y de código abierto + Tutorial"
 description: "Si utilizas varios métodos de pago y necesitas una forma de agruparlos y compartirlos, te presento la versión 2.0 de PayLink..."
 pubDate: "Sep 22 2022"

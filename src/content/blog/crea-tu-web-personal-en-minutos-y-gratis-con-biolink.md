@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "Crea tu web personal en minutos y gratis con Bio.Link"
 description: "Bio.Link es una herramienta minimalista, elegante y gratuita para crear sitios web tanto personales..."
 pubDate: "Dec 03 2021"

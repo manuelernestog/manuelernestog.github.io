@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "3 herramientas para crear el readme de tu perfil y no morir en el intento"
 description: "Si eres developer tu perfil de github es tu carta de presentación, por lo que es muy recomendable que lo tengas actualizado..."
 pubDate: "Oct 15 2022"

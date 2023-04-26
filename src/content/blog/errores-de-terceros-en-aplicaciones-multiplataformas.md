@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "Errores de terceros en aplicaciones multiplataformas"
 description: "Estoy trabajando en una app multiplataforma hecha con Electron y llevo exactamente una semana fajado..."
 pubDate: "Apr 07 2022"

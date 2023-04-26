@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "Crea tu blog en la WEB 3 con dBlog, una plataforma de blogging descentralizada"
 description: "RdBlog es una plataforma de blogging que corre sobre la blockchain de Hive. Este te permite gestionar blogs..."
 pubDate: "Jul 17 2022"

@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "Ahorra datos, convierte y descarga videos desde tu telefono Android"
 description: "Si hay algo que nos absorbe de internet es la gran cantidad de información y contenido que encontramos en línea y uno ..."
 pubDate: "Feb 08 2022"

@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "Como generar imágenes con IA online o utilizando tu propia IA gratis"
 description: "La generación de imágenes utilizando IA se ha vuelto tendencia en estos días con la enorme cantidad..."
 pubDate: "Aug 31 2022"

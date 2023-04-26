@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "3 Extensiones para ahorrar datos navegando en internet"
 description: "En ocasiones nos vemos necesitados de compartir el internet de nuestros teléfonos móviles con nuestra computadora personal..."
 pubDate: "Dec 10 2021"

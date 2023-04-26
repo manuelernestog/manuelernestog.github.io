@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "Porque Astro podría ser tu próximo framework favorito para crear páginas web"
 description: "La semana pasada comencé a trabajar en un proyecto pequeño, así que aproveche la oportunidad para probar Astro..."
 pubDate: "Sep 16 2022"

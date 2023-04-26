@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "¿Vale la pena crear una aplicación con no-code?"
 description: "El fin de semana pasado se me ocurrió una idea para una solución y como era una cosa sencilla me pareció ..."
 pubDate: "May 14 2022"

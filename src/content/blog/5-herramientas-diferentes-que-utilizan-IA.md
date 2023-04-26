@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "5 herramientas diferentes que utilizan IA que puedes probar gratis hoy mismo"
 description: "La IA ha tenido en los últimos meses un crecimiento exponencial, cada vez son más los usos que se le da esta tecnología."
 pubDate: "Oct 24 2022"

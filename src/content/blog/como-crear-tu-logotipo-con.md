@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "Como crear tu logotipo con Inteligencia Artificial"
 description: "Todo producto, marca o negocio necesita de una entidad visual para ser identificable en el mercado. El logotipo es un..."
 pubDate: "Dec 20 2021"

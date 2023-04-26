@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "Como hakearon las llaves privadas de un amigo directamente de Metamask y que hacer para que no te ocurra."
 description: "Resulta que hoy en la noche estamos en la comunidad conversando y de momento uno de los miembros..."
 pubDate: "Jun 04 2022"

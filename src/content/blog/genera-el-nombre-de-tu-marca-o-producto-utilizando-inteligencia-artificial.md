@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "Genera el nombre de tu marca o producto utilizando inteligencia artificial."
 description: "Cuando estamos creando un nuevo negocio, producto o marca, uno de los aspectos que en ocasiones se torna tedioso es..."
 pubDate: "Dec 16 2021"

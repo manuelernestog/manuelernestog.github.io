@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "Resumen de Company of One. Por qué tener un pequeño negocio puede ser mejor."
 description: "Company of One de Paul Jarvis explora la idea de dirigir un negocio como un emprendedor solitario en lugar de escalar y argumenta ..."
 pubDate: "Dec 22 2022"

@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "El mejor sitio para descubrir o lanzar tu nuevo producto digital"
 description: "Diariamente en el mundo se crean y se actualizan cientos de aplicaciones. Este ritmo desenfrenado ..."
 pubDate: "Aug 16 2022"

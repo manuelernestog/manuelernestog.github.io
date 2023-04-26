@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "9 Cursos de Platzi para la creación de startups"
 description: "Platzi es una escuela online con miles de formaciones de alta calidad y entre ellas muchas relacionadas con el mundo del emprendimiento ..."
 pubDate: "Mar 19 2022"

@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "Presentando WeekToDo 2.0"
 description: "WeekToDo, el Planificador de Tareas Minimalista, llega a su versión 2"
 pubDate: "Nov 30 2022"

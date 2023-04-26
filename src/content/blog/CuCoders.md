@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "CuCoders | Propuesta inicial para una Comunidad de Desarrolladores Cubanos"
 description: "Hace unos días salí buscando opiniones sobre que tan beneficioso sería tener una comunidad de desarrolladores cubanos."
 pubDate: "Jan 6 2023"

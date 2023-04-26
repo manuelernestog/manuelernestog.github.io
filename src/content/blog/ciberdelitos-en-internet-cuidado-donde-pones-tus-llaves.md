@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "Ciberataques en internet. Cuidado donde pones tus llaves."
 description: "Hoy en día tenemos que estar muy al tanto en internet donde ponemos nuestras contraseñas o llaves..."
 pubDate: "Feb 15 2022"

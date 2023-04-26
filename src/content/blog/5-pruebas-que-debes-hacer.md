@@ -1,5 +1,4 @@
 ---
-layout: "../../layouts/PostLayout.astro"
 title: "5 Pruebas que debes hacer al comprar tu nueva laptop"
 description: "Cuando nos disponemos a comprar una nueva computadora personal son muchos los aspectos que tenemos que tener en cuenta ..."
 pubDate: "Feb 22 2022"
